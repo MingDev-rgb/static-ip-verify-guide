@@ -1,0 +1,9 @@
+# 忽略常见临时/备份文件
+*.bak
+*.bak-*
+*.log
+.DS_Store
+Thumbs.db
+
+# 私有文件（通用规则，不列举具体文件名）
+PRIVATE-*
